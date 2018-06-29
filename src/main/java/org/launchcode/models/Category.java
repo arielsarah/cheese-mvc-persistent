@@ -8,6 +8,7 @@ import java.util.List;
 
 @Entity
 public class Category {
+
     @Id
     @GeneratedValue
     private int id;
